@@ -1,3 +1,3 @@
-# This is a cool workspace
+# This is an awesome workspace
 
 # Another line change
