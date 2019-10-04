@@ -3,3 +3,5 @@
 # Another line change
 
 Installation instructions
+
+Credits
