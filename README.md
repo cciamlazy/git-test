@@ -1,3 +1,3 @@
-# This is a cool project
+# This is a awesome project
 
 # Another line change
